@@ -1,12 +1,9 @@
 # Overview
 This repo hosts all the firmware for the QuadRank timer hardware.
-For instructions on how to build the timer. Please refer to [http://qrdk-timer-cn.huu.la](http://qrdk-timer-cn.huu.la).
+For instructions on how to build the timer. Please refer to [http://www.quadrank.com](http://www.quadrank.com). 
+中文:[http://quadrank.huu.la](http://quadrank.huu.la)
 
-# Android App
-In Review.
+Project is inspired by Delta 5 Race Timer: https://github.com/scottgchin/delta5_race_timer but should be easier to build.
 
-# iOS App
-To be supported.
-
-# App screenshots
-![](assets/screenshot1.png) ![](assets/screenshot2.png) ![](assets/screenshot3.png)
+# TBD
+* Multi channel tracking
