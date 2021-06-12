@@ -11,5 +11,8 @@ English: [http://www.quadrank.com](http://www.quadrank.com).
 
 Project is inspired by Delta 5 Race Timer: https://github.com/scottgchin/delta5_race_timer but should be easier to build.
 
+# Change log
+v2.1: Added min lap time check. Firmware is fully compatible with 2.0 APP
+
 # TBD
 * Multi channel tracking
