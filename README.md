@@ -1,5 +1,5 @@
 # NOTE
-This repo has been deprecated and should not be used. For latest versions, checkout [https://fpvsim.com/timer](fpvsim.com/timer)
+This repo has been deprecated and should not be used. For latest versions, checkout [fpvsim.com/timer](https://fpvsim.com/timer)
 
 # Overview
 This repo hosts all the firmware for the QuadRank timer hardware.
